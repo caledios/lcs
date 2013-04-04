@@ -1,1 +1,1 @@
-Libre Catalogue System
+Libre Catalogue System (LCS).
